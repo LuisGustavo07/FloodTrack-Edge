@@ -37,3 +37,4 @@ Simulação online
 Você pode testar esse sistema no Wokwi clicando aqui:
 
 👉 [Acessar projeto no Wokwi](https://wokwi.com/projects/375913265503799297)
+👉 [Acessar o video do projeto](https://youtu.be/zUh-S85iZyY?si=oM6xf2izHVM9vQ4W)
